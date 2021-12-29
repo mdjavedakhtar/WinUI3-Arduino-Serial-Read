@@ -1,0 +1,13 @@
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\AdruinoRead.exe
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\AdruinoRead.dll
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\AdruinoRead.deps.json
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\AdruinoRead.runtimeconfig.json
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\AdruinoRead.pdb
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\System.IO.Ports.dll
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.IO.Ports.dll

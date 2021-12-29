@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdruinoRead</id>
+    <version>1.0.0</version>
+    <authors>AdruinoRead</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="System.IO.Ports" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\AdruinoRead.runtimeconfig.json" target="lib\net6.0-windows7.0\AdruinoRead.runtimeconfig.json" />
+    <file src="C:\Users\Javed\Desktop\Freelncer Projects\Win Form Serial Read\Adruino Read\bin\Release\net6.0-windows\AdruinoRead.dll" target="lib\net6.0-windows7.0\AdruinoRead.dll" />
+  </files>
+</package>
